@@ -50,6 +50,12 @@ Para cada equipa, indica a metodologia descrita (cascata, iterativa/incremental,
 Escreve 6 histórias de utilizador para as funcionalidades mínimas do projeto (uma por funcionalidade), no formato «Como … quero … para …». Para cada história, escreve 2 critérios de aceitação verificáveis.
 
 Funcionalidades mínimas: registar cliente e equipamento; abrir pedido; listar e filtrar pedidos por estado; atribuir técnico; mudar estado; fechar pedido.
+**(Como técnico, quero poder registar os meus clientes e respetivos equipamentos, que entregam em loja, para organizar a linha de trabalho)**
+**(Como técnico, quero conseguir abrir pedidos com a info necessária ao processo individual, para dar entrada ao equipamento no sistema e poder seguir o seu processo)**
+**(Como técnico, quero ser capaz de listar e filtrar os pedidos existentes por estado, para conseguir organizar e planear o trabalho)**
+**(Como técnico, quero poder atribuir técnicos a cada processo, para delegar trabalho)**
+**(Como técnico, quero conseguir mudar o estado do processo, para poder o poder validar e agir conforme a informação disponível)**
+**(Como técnico, quero ser capaz de fechar pedidos, para concluir processos, seja através de opções de "concluído" ou "cancelado")**
 
 ### Exercício 5 — Priorizar o *backlog* (consolidação)
 
