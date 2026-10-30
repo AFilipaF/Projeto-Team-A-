@@ -55,16 +55,16 @@ Funcionalidades mínimas: registar cliente e equipamento; abrir pedido; listar e
 
 O dono da loja deu-vos esta lista de desejos. Classifiquem cada item com MoSCoW para a **primeira versão** da aplicação e justifiquem em uma frase.
 
-1. Abrir um pedido de assistência.
-2. Enviar um SMS ao cliente quando o equipamento está pronto.
-3. Mudar o estado de um pedido.
-4. Ver um gráfico com o número de reparações por mês.
-5. Registar clientes e equipamentos.
-6. Filtrar pedidos por estado.
-7. Atribuir um técnico a um pedido.
-8. Imprimir uma etiqueta com código de barras para colar no equipamento.
-9. Aplicação para telemóvel para os clientes consultarem o estado.
-10. Registar a data de entrega ao fechar o pedido.
+1. Abrir um pedido de assistência. **(Should)**
+2. Enviar um SMS ao cliente quando o equipamento está pronto. **(Should/Could)**
+3. Mudar o estado de um pedido. **(Must)**
+4. Ver um gráfico com o número de reparações por mês. **(Could)**
+5. Registar clientes e equipamentos. **(Must)**
+6. Filtrar pedidos por estado. **(Must)**
+7. Atribuir um técnico a um pedido. **(Must)**
+8. Imprimir uma etiqueta com código de barras para colar no equipamento. **(Won't)**
+9. Aplicação para telemóvel para os clientes consultarem o estado. **(Won't)**
+10. Registar a data de entrega ao fechar o pedido. **(Must)**
 
 ### Exercício 6 — Ler um README (consolidação)
 
@@ -86,7 +86,8 @@ O plano deve cobrir as sessões 2 a 7 e os seis marcos de trabalho autónomo, e 
 
 Proponham o quadro Kanban do vosso grupo:
 
-1. Que colunas vão usar? (mínimo 3)
-2. Que limite de trabalho em curso (WIP) põem em cada coluna, e porquê?
-3. O que fazem quando a coluna «Em curso» está cheia e alguém acaba de ficar livre?
-4. Criem o quadro (no GitHub Projects ou em papel) com pelo menos 6 cartões, um por história do exercício 4.
+1. Que colunas vão usar? (mínimo 3) - **(A fazer / Em processo / Concluído / Entregue)**
+2. Que limite de trabalho em curso (WIP) põem em cada coluna, e porquê? **(Em curso não pode ter mais do que 3 tarefas, pois isso leva a que os trabalhos sejam iniciados, mas nunca sejam concluídos)**
+3. O que fazem quando a coluna «Em curso» está cheia e alguém acaba de ficar livre? **(Vai verificar o que é que está a interferir na conclusão da entrega das tarefas em curso)**
+4. Criem o quadro (no GitHub Projects ou em papel) com pelo menos 6 cartões, um por história do exercício 4. - **(Feito no trello)**
+
